@@ -19,7 +19,7 @@ A responsive dashboard application built using React.js, focusing on reusable co
 https://react-dashboard-six-theta.vercel.app/
 
 ## 📸 Screenshots
-![Dashboard](screenshots.png)
+![Dashboard](screenshot.png)
 
 ## 📦 How to Run Locally
 1. Clone the repo
@@ -31,3 +31,4 @@ https://react-dashboard-six-theta.vercel.app/
 - Component-based architecture in React
 - State management basics
 - Building dashboards using React
+
